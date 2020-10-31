@@ -3,5 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>phone_m-dpi_5_4in_lollipop_5_0_-_api_21</SelectedDevice>
     <DefaultDevice>phone_m-dpi_5_4in_lollipop_5_0_-_api_21</DefaultDevice>
+    <AndroidDesignerPreferredTheme>AppTheme</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredDevice>pixel_3a_xl</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
