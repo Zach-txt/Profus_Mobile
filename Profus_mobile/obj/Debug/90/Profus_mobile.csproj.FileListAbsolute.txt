@@ -259,3 +259,6 @@ C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\stamp\_ConvertRe
 C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\res\layout\mode_de_jeu.xml
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\android\src\crc647c4441a42b754995\Mode_de_Jeu.java
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\android\src\crc647c4441a42b754995\Activity1.java
