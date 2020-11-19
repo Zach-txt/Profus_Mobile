@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/linearLayout2">
         <TextView
-            android:text="Nombre de joueur : "
+            android:text="Nombre de joueurs ?: "
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="190.8dp"
             android:layout_height="wrap_content"
