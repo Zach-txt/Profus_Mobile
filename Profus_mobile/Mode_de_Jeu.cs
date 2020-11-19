@@ -14,7 +14,7 @@ using static Android.App.ActionBar;
 namespace Profus_mobile
 {
 
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = false)]
+    [Activity(Label = "Mode de Jeu")]
     public class Mode_de_Jeu : Activity
     {
         public static int Nb_joueur;

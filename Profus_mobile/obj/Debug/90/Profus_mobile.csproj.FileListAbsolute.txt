@@ -262,3 +262,11 @@ C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\stamp\_ResolveLi
 C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\res\layout\mode_de_jeu.xml
 C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\android\src\crc647c4441a42b754995\Mode_de_Jeu.java
 C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\android\src\crc647c4441a42b754995\Activity1.java
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\res\layout\parametre.xml
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\res\layout\info.xml
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\res\layout\inscription.xml
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\res\layout\leaderboard.xml
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\android\src\crc647c4441a42b754995\Info.java
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\android\src\crc647c4441a42b754995\Inscription.java
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\android\src\crc647c4441a42b754995\Leaderboard.java
+C:\Users\canti\Desktop\Profus_Mobile\Profus_mobile\obj\Debug\90\android\src\crc647c4441a42b754995\Parametre.java

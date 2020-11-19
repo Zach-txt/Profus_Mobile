@@ -58,22 +58,22 @@ namespace Profus_mobile
 
         void Info(object sender, System.EventArgs e)
         {
-
+            StartActivity(new Intent(this, typeof(Info)));
         }
 
         void Parametre(object sender, System.EventArgs e)
         {
-
+            StartActivity(new Intent(this, typeof(Parametre)));
         }
 
         void Inscription(object sender, System.EventArgs e)
         {
-
+            StartActivity(new Intent(this, typeof(Inscription)));
         }
 
         void Score(object sender, System.EventArgs e)
         {
-
+            StartActivity(new Intent(this, typeof(Leaderboard)));
         }
         #endregion
 
